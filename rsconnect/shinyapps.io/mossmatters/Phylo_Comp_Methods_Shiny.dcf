@@ -1,0 +1,8 @@
+name: Phylo_Comp_Methods_Shiny
+account: mossmatters
+server: shinyapps.io
+bundleId: 320039
+url: https://mossmatters.shinyapps.io/Phylo_Comp_Methods_Shiny
+when: 1448646101.64126
+asMultiple: FALSE
+asStatic: FALSE
